@@ -10,15 +10,16 @@ public class BasicJava {
 
     }
 
-    public static void dientotKerjaan() {
-        System.out.println("Capekk");
-        System.out.println("Tailaahh");
+    public static void bermainValorant() {
+        System.out.println("NT");
+        System.out.println("GG guys");
+        System.out.println("sova low");
     }
 
     public static void main(String[] args) {
         cetakPesan();
         testingAjaa();
-        dientotKerjaan();
+        bermainValorant();
 
         // wkakakaakakka
 
