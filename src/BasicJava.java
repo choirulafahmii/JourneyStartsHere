@@ -10,10 +10,15 @@ public class BasicJava {
 
     }
 
+    public static void dientotKerjaan() {
+        System.out.println("Capekk");
+        System.out.println("Tailaahh");
+    }
 
     public static void main(String[] args) {
         cetakPesan();
         testingAjaa();
+        dientotKerjaan();
 
         // wkakakaakakka
 
